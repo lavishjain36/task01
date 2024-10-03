@@ -1,0 +1,29 @@
+
+
+1
+import java.util.Scanner;
+
+public class Main {
+    //java main method
+    public static void  main(String[] args) {
+        
+        System.out.println(5!=5);
+        
+        
+        
+    }
+}
+
+Output:
+Your Output will be displayed here
+
+
+2.
+code
+
+output
+
+3.
+code 
+
+out
